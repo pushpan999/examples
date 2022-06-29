@@ -1,7 +1,7 @@
 # Setup Bootstrap5 with Django
 ## source:
-https://www.npmjs.com/package/gulp-sass
-https://zellwk.com/blog/dart-sass-gulp/
+- https://www.npmjs.com/package/gulp-sass
+- https://zellwk.com/blog/dart-sass-gulp/
 
 ## Steps
  - npm install --global gulp-cli (if gulp not installed)
